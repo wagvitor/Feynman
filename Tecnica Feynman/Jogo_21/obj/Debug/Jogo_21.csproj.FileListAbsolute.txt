@@ -1,0 +1,30 @@
+E:\Executaveis liberados\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe.config
+E:\Executaveis liberados\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe
+E:\Executaveis liberados\Jogo_21\Jogo_21\bin\Debug\Jogo_21.pdb
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Form1.resources
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Properties.Resources.resources
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.exe
+E:\Executaveis liberados\Jogo_21\Jogo_21\obj\Debug\Jogo_21.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe.config
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.exe
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csprojResolveAssemblyReference.cache
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Form1.resources
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Properties.Resources.resources
+C:\Users\dell-e\Downloads\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csproj.GenerateResource.Cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe.config
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.pdb
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\bin\Debug\Jogo_21.pdb
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csprojResolveAssemblyReference.cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Form1.resources
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.Properties.Resources.resources
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Jogo_21\Jogo_21\obj\Debug\Jogo_21.csproj.GenerateResource.Cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Tecnica Feynman\Jogo_21\bin\Debug\Jogo_21.exe.config
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Tecnica Feynman\Jogo_21\obj\Debug\Jogo_21.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\Tecnica Feynman\Jogo_21\obj\Debug\Jogo_21.pdb
